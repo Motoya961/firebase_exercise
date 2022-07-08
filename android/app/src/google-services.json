@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "790997868458",
+    "project_id": "tutorial-cec0f",
+    "storage_bucket": "tutorial-cec0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790997868458:android:17b03b365645239ddb15d3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790997868458-cimt9tvnfvt9j66k22ha6gpkq6d039h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPeEIK69K887NkAossx6GjwQFBCTgPU90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790997868458-cimt9tvnfvt9j66k22ha6gpkq6d039h7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790997868458-3qv14m7jrnak3qf1kpod0filup0ch8d2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebase1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
